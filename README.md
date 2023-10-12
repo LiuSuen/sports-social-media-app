@@ -17,7 +17,6 @@ Our app is your go-to companion for pairing with like-minded sports enthusiasts 
     <img src="/Demo/Start_Page.png" alt="Start page" width="30%" />
     <img src="/Demo/Login.png" alt="Login page" width="30%" />
 </div>
-![Start Page]("/Demo/Start_Page.png")
 2. Machine-learning-based partener matching
 3. Live chat
 4. Costumized profile

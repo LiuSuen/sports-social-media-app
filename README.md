@@ -1,6 +1,6 @@
 # sports-social-media-app
 A mobile app for sports partner finding and event organization.  
-📱 An upcoming mobile app set to launch on the App Store in December 2023. Dive into our demo and get a sneak peek!
+📱Set to launch on the App Store in December 2023. Now dive into our demo and get a sneak peek!
 
 ## Introduction
 🧗‍♂️ Lost without a climbing partner?  
@@ -14,8 +14,8 @@ Our app is your go-to companion for pairing with like-minded sports enthusiasts 
 ## Functionality
 1. Secured authentication
 <div style="display: flex; justify-content: space-between;">
-    <img src="/Demo/Start_Page.png" alt="Start page" width="30%" />
-    <img src="/Demo/Login.png" alt="Login page" width="30%" />
+    <img src="/Demo/Start_Page.png" alt="Start page" width="20%" />
+    <img src="/Demo/Login.png" alt="Login page" width="20%" />
 </div>
 2. Machine-learning-based partener matching
 3. Live chat

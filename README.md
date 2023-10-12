@@ -14,8 +14,8 @@ Our app is your go-to companion for pairing with like-minded sports enthusiasts 
 ## Functionality
 1. Secured authentication
 <div style="display: flex; justify-content: space-between;">
-    <img src="/Demo/Start Page Mockup.png" alt="Start page" width="30%" />
-    <img src="/Demo/Login Mockup.png" alt="Login page" width="30%" />
+    <img src="/Demo/Start_Page.png" alt="Start page" width="30%" />
+    <img src="/Demo/Login.png" alt="Login page" width="30%" />
 </div>
 ![Start Page]("/Demo/Start_Page.png")
 2. Machine-learning-based partener matching

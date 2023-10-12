@@ -13,11 +13,14 @@ Our app is your go-to companion for pairing with like-minded sports enthusiasts 
 
 ## Functionality
 1. Secured authentication
-<div style="display: flex; justify-content: space-between;">
-    <img src="/Demo/Start_Page.png" alt="Start page" width="20%" />
-    <img src="/Demo/Login.png" alt="Login page" width="20%" />
-</div>
 2. Machine-learning-based partener matching
 3. Live chat
 4. Costumized profile
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Demo/Start_Page.png" alt="Start page" width="20%" />
+    <img src="/Demo/Login.png" alt="Login page" width="20%" />
+    <img src="/Demo/Home.png" alt="Login page" width="20%" />
+    <img src="/Demo/Chat.png" alt="Login page" width="20%" />    
+    <img src="/Demo/Profile1.png" alt="Login page" width="20%" />
+    <img src="/Demo/Profile2.png" alt="Login page" width="20%" />
+</div>
